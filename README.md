@@ -33,43 +33,40 @@ It demonstrates how to design **graph-based LLM workflows** with memory and a cl
 ## 🧠 Project Architecture
 
 ChatbotProject/
+
 │
+
 ├── streamlit_frontend.py # Streamlit-based chat UI
+
 ├── langgraph_backend.py # LangGraph state & chat logic
+
 ├── .env # Environment variables (not pushed)
+
 ├── .gitignore
+
 ├── README.md
 
 📌 Use Cases
-
 AI Chatbots
-
 Customer Support Assistants
-
 Conversational AI Prototypes
-
 Learning Agentic AI & LangGraph
-
 Base for multi-agent systems
 
+
 🔮 Future Enhancements
-
 🔀 Multi-node routing
-
 🧩 Tool calling & function execution
-
 🤝 Multi-agent collaboration
-
 💾 Persistent memory (DB-based)
-
 📊 Analytics & logging
-
 👤 Author
+
 
 Abbas
 AI / Agentic AI Enthusiast
 Building scalable, graph-based LLM systems
 
-⭐ If you like this project
 
+⭐ If you like this project
 Give it a ⭐ on GitHub and feel free to fork or contribute!
