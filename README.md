@@ -47,6 +47,7 @@ ChatbotProject/
 ├── README.md
 
 📌 Use Cases
+
 AI Chatbots
 Customer Support Assistants
 Conversational AI Prototypes
@@ -55,13 +56,14 @@ Base for multi-agent systems
 
 
 🔮 Future Enhancements
+
 🔀 Multi-node routing
 🧩 Tool calling & function execution
 🤝 Multi-agent collaboration
 💾 Persistent memory (DB-based)
 📊 Analytics & logging
-👤 Author
 
+👤 Author
 
 Abbas
 AI / Agentic AI Enthusiast
